@@ -1,0 +1,5 @@
+const { Vonage } = require('@vonage/server-sdk');
+const vonage = new Vonage({
+  apiKey: "94c2358f",
+  apiSecret: "OvlDOlzM8sjPBIVr"
+});
